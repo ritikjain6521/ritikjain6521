@@ -37,11 +37,13 @@ Hello! I’m **Ritik Jain**, a passionate **Full Stack MERN Developer** with a f
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Smart Resume Builder** | AI-powered resume generator with live preview and PDF export | React.js, Node.js, Tailwind, MongoDB, OpenAI |
 | **E-commerce Website** | Full-featured online store with cart, authentication, and admin panel | MERN Stack |
 | **Music Player App** | Online music streaming UI with categories and playlist support | React.js, PostgreSQL, Node.js |
+| ** **iDiscuss Chat App**** | Online Chating with friends  UI with Multi users join a chat and start a group chating  |React.js|node.js,Socket.js|
+| ** **Password Manager**** | Manager
+PassOP is a sleek and simple web-based password manager that allows users to securely save and manage their login credentials. It features:🔎 Input fields for website URL, username, and password👁️ Password visibility toggle➕ Add new credentials📝 Edit or 🗑️ delete saved entries📋 Organized password table with site, username, and password🌐 Fully responsive UI with a clean and user-friendly desig  |React.js|node.js|Css|Express.js|
 
-> 🔗 [See All Projects](#) (Replace with your project links or portfolio)
+> 🔗 [See All Projects](https://ritikjainportfolio.netlify.app/) (Replace with your project links or portfolio) 
 
 ---
 
